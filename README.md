@@ -12,8 +12,6 @@
 
 *Send text, images, documents, audio, video & stickers programmatically*
 
-[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [🧪 Examples](#-examples) • [🚀 Deploy](#-deployment)
-
 </div>
 
 ---
